@@ -88,11 +88,11 @@ footer{
     background: linear-gradient(to right, #000000 0%, #0000ff 25%, #0066ff 75%, #000000 100%);
     border: 5px solid #FFFFFF;
 }
-footer p{
+footer>p{
     font-size: 20px;
     text-align: right;
     padding-right: 15px;
     padding-top: 15px;
     padding-bottom: 15px;
-    padding-left: None;
+    padding-left: 0px;
 }
